@@ -1,4 +1,3 @@
-import { div } from "framer-motion/client";
 import type { JSX } from "react";
 import type React from "react";
 
